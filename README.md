@@ -1,8 +1,7 @@
 <!-- INTRO BANNER -->
 
-
 <p align="right">
-  <img src="https://hits.sh/sham-404.svg?style=for-the-badge&label=PROFILE+VIEWS&color=000000&labelColor=101010" />
+  <img src="https://komarev.com/ghpvc/?username=sham-404&style=flat-square&color=000000" />
 </p>
 
 <p align="center">
