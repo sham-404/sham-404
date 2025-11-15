@@ -53,7 +53,7 @@
 ```md
 I’m a developer learning my way through multiple languages and tech:
 
-💻 I can code in:
+💻 I code in:
 - Python  
 - C  
 
@@ -66,7 +66,7 @@ I’m a developer learning my way through multiple languages and tech:
 - Data structures (linked lists → trees → graphs → DP)
 - Backend basics with Node.js
 - Web dev fundamentals
-- Linux + Neovim (BTW I use antiX 😆)
+- Linux + Neovim (I use antiX btw)
 
 🚀 My goals:
 Keep learning, keep building, keep improving — one bug at a time.
