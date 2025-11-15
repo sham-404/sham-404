@@ -1,6 +1,7 @@
 <!-- INTRO BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/8MupZHY.gif" width="300" />
+  <!--<img src="https://i.imgur.com/8MupZHY.gif" width="300" />-->
+  <img src = "https://tenor.com/view/wink-anime-anime-wink-peace-peace-sign-gif-8661388810771340622" width='300' />
 </p>
 
 <h1 align="center">Yo, I'm Sham 😎</h1>
