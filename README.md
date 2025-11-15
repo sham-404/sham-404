@@ -23,8 +23,8 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=sham-404&show_icons=true&theme=tokyonight"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sham-404&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -32,7 +32,7 @@
 ## 🔥 GitHub Streaks
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sham-404&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sham-404&theme=tokyo-night" />
 </p>
 
 ---
