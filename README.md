@@ -1,7 +1,9 @@
 <!-- INTRO BANNER -->
 <p align="center">
-  <!--<img src="https://i.imgur.com/8MupZHY.gif" width="300" />-->
-  <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I1anhsNWs4eG1yZnpjb3puaml2bWZnb3Yydm50NjJna2Rma2JvaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12wK5ab2fH2OLm/giphy.gif" width='300' />
+  <!--
+  <img src="https://i.imgur.com/8MupZHY.gif" width="300" />
+  -->
+  <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I1anhsNWs4eG1yZnpjb3puaml2bWZnb3Yydm50NjJna2Rma2JvaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12wK5ab2fH2OLm/giphy.gif" width='350' />
 </p>
 
 <h1 align="center">Yo, I'm Sham 😎</h1>
