@@ -1,6 +1,13 @@
 <!-- <!-- INTRO BANNER --> -->
 <!---->
 <!-- <p align="right"> -->
+<!-- <<<<<<< HEAD -->
+<!--   <img src="https://img.shields.io/badge/Profile%20Views-8caaee?style=for-the-badge" alt="Profile Views" /> -->
+<!-- </p> -->
+<!---->
+<!-- <p align="center"> -->
+<!--   <img src="https://media.giphy.com/media/12wK5ab2fH2OLm/giphy.gif" width='350' /> -->
+<!-- ======= -->
 <!--   <img src="https://komarev.com/ghpvc/?username=sham-404&style=flat-square&color=000000" /> -->
 <!-- </p> -->
 <!---->
@@ -9,6 +16,7 @@
 <!--   <img src="https://i.imgur.com/8MupZHY.gif" width="300" /> -->
 <!--   --> -->
 <!--   <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I1anhsNWs4eG1yZnpjb3puaml2bWZnb3Yydm50NjJna2Rma2JvaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12wK5ab2fH2OLm/giphy.gif" width='350' /> -->
+<!-- >>>>>>> parent of 22ced7a (Trying something new) -->
 <!-- </p> -->
 <!---->
 <!-- <h1 align="center">Yo, I'm Sham</h1> -->
@@ -40,7 +48,11 @@
 <!-- ## 🔥 GitHub Streaks -->
 <!---->
 <!-- <p align="center"> -->
+<!-- <<<<<<< HEAD -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=sham-404&theme=tokyonight&background=1a1b26&hide_border=true" /> -->
+<!-- ======= -->
 <!--   <img src="https://streak-stats.demolab.com?user=sham-404&theme=tokyonight&hide_border=true" /> -->
+<!-- >>>>>>> parent of 22ced7a (Trying something new) -->
 <!-- </p> -->
 <!---->
 <!-- --- -->
@@ -77,11 +89,11 @@
 <!-- Keep learning, keep building, keep improving — one bug at a time. -->
 
 <p align="right">
-  <img src="https://img.shields.io/badge/Profile%20Views-8caaee?style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sham-404&style=for-the-badge&color=8caaee" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/12wK5ab2fH2OLm/giphy.gif" width='350' />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I1anhsNWs4eG1yZnpjb3puaml2bWZnb3Yydm50NjJna2Rma2JvaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12wK5ab2fH2OLm/giphy.gif" width='350' />
 </p>
 
 <h1 align="center">Yo, I'm Sham ✌️</h1>
@@ -143,7 +155,7 @@ Here’s some of the cool stuff I’ve been working on lately:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sham-404&theme=tokyonight&background=1a1b26&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sham-404&theme=tokyonight&background=1a1b26&hide_border=true" />
 </p>
 
 ---
