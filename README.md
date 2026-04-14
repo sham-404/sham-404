@@ -60,11 +60,10 @@ Here’s some of the cool stuff I’ve been working on lately:
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/awesome-stats-card">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=&preferLogin=false">
     <img
       alt="sham-404's GitHub Stats"
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/sham-404?cardType=level&theme=tokyonight&fontFamily=JetBrains%20Mono&preferLogin=true&borderRadius=14&Ring=58A6FF&title=Stats&hide_border=false"
-      height="180"
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/sham-404?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false"
     />
   </a>
 </p>
