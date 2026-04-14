@@ -60,8 +60,12 @@ Here’s some of the cool stuff I’ve been working on lately:
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=sham-404&show_icons=true&theme=tokyonight&bg_color=1a1b26&hide_border=true&v=1"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sham-404&layout=compact&theme=tokyonight&bg_color=1a1b26&hide_border=true&v=1"/>
+  <a href="https://git.io/awesome-stats-card">
+    <img
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/harishdevlab?cardType=level&theme=great-gatsby&fontFamily=Roboto&showIcons=false&preferLogin=true&borderRadius=10&Ring=5AFF20"
+      alt="GitHub Stats"
+    />
+  </a>
 </p>
 
 <p align="center">
