@@ -1,3 +1,4 @@
+<div align="right"
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=sham-404&style=for-the-badge&color=8caaee" alt="Profile Views" />
 </div>
@@ -9,28 +10,32 @@
 <h1 align="center">Hi, I'm Sham.</h1>
 
 <p align="center">
-Computer Science student interested in systems programming, algorithms, and developer tools.
+Computer Science student passionate about low level, systems programming, and performance-oriented software.
 <br/>
-Most of my recent work is in Rust, Linux, and chess programming.
+Most of my recent work is in Rust, Linux, Python, system based softwares.
 </p>
 
 ---
 
 ## About
 
-I enjoy building software that teaches me something new.
+I enjoy building software that forces me to understand how things work internally.
 
-Lately that has meant writing a chess engine from scratch, experimenting with search algorithms and neural evaluation, exploring procedural generation, and making small tools that improve my workflow.
+Most of my time currently goes into developing **Roxie**, a chess engine written in Rust, where I experiment with search algorithms, move ordering, pruning techniques, transposition tables, evaluation functions, and NNUE.
 
-When I'm not working on those, I'm usually somewhere inside Neovim or reading about how things work under the hood.
+Outside of chess programming, I enjoy working on procedural generation, developer tooling, Neovim customization, and lightweight Linux setups.
+
+I'm always interested in learning about algorithms, optimization, and low-level software design.
 
 **Current interests**
 
-* Chess programming
+* Chess Programming
 * Rust
+* Python
+* Systems Programming
+* Building cli tools
 * Linux
-* Algorithms
-* Procedural generation
+* Neovim
 
 ---
 
@@ -52,23 +57,23 @@ When I'm not working on those, I'm usually somewhere inside Neovim or reading ab
 
 ## Projects I'm proud of
 
-### ♟ Roxie
+### ♟ [Roxie](https://github.com/sham-404/roxie)
 
 A UCI-compatible chess engine written in Rust.
 
-The project started as a way to learn chess programming and has grown into my main long-term project. Current work focuses on search optimizations, move ordering, transposition tables, pruning techniques, and integrating an NNUE evaluation.
+The project started as a way to learn rust programming language and has grown into my primary long-term project. Development currently focuses on search optimizations, advanced move ordering, pruning techniques, transposition tables, and NNUE evaluation.
 
 ---
 
-### 🌸 Kolam
+### 🌸 [Kolam](https://github.com/sham-404/Kolam)
 
 A procedural Kolam generator built using the Wave Function Collapse algorithm.
 
-Instead of recreating existing patterns, it generates entirely new ones while following the rules that make Kolams recognizable.
+Instead of recreating existing patterns, it generates entirely new ones while following the mathematical rules that make Kolams recognizable.
 
 ---
 
-The rest of my repositories are mostly experiments, visualizations, course work, and smaller utilities that helped me learn something new.
+The rest of my repositories are mostly experiments, visualizations, developer tools, coursework, and small projects that helped me explore new ideas.
 
 ---
 
@@ -91,3 +96,4 @@ The rest of my repositories are mostly experiments, visualizations, course work,
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sham-404&theme=tokyo-night&bg_color=1a1b26&hide_border=true"/>
 </p>
+
